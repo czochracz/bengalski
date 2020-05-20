@@ -1,0 +1,5 @@
+Urle kontra strony (domyœlny link przyjazny jest tworzony na podstawie pierwszego opublikowanego artyku³u)
+Gotowe layouty do wykorzystania (bez potrzeby ich wgrywania) i ich edycja bez potrzeby opuszczania panelu administracyjnego.
+Przyjazne zarz¹dzanie stylami (bez edycji pliku CSS)
+Wyœwietlanie strony 1:1 wraz ze skryptami JS dzia³aj¹cymi w tle. 
+Zarz¹dzanie uk³adem treœci, uk³adem modu³ów, zawartoœci¹ modu³ów z jednej strony bez ramek, edycja prostej treœci w miejscu.
